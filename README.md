@@ -1,4 +1,4 @@
-# Finding-Donors-for-CharityML
+# Supervised Learning -Finding-Donors-for-CharityML
 This project is part of Udacity Machine Learning Nanodegree projects.
 
 # Project Overview
